@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=ZIKO387%20%7C%20MWANGIDEV&fontAlign=50&fontAlignY=40&desc=Backend%20%26%20Mobile%20Developer&descAlign=50&descAlignY=60&color=0:0f2027,100:203a43&fontColor=ffffff" />
+</p>
 <h1 align="center">Hi 👋, I'm Ian Wainaina Mwangi</h1>
 <h3 align="center">A passionate mobile developer and backend developer</h3>
 
@@ -31,3 +34,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziko387&show_icons=true&locale=en" alt="ziko387" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziko387&" alt="ziko387" /></p>
+
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ziko387&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziko387&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=ziko387&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziko387&bg_color=0f2027&color=ffffff&line=00eaff&point=ffffff&hide_border=true" /> </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:203a43,100:0f2027&section=footer&text=Build.%20Ship.%20Iterate.&fontColor=ffffff" /> </p> <p align="center"> <b>⚡ ziko387 (mwangiDEV)</b><br/> <i>Backend & Mobile Developer</i> </p> ```
