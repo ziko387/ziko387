@@ -1,7 +1,23 @@
 <!-- HEADER BADGE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=ZIKO387%20%7C%20MWANGIDEV&fontSize=48&fontAlign=50&fontAlignY=38&desc=Backend%20%26%20Mobile%20Developer%20%7C%20Django%20%26%20Jetpack%20Compose&descSize=18&descAlign=50&descAlignY=62&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
-</p>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+
+
+
+
+
+
 
 <!-- INTRO -->
 <h1 align="center">Hi 👋, I'm Ian Wainaina Mwangi</h1>
@@ -12,12 +28,6 @@
   <img src="https://komarev.com/ghpvc/?username=ziko387&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- GITHUB TROPHIES -->
-<p align="center">
-  <a href="https://github.com/ziko387/ziko387">
-    <img src="https://github-profile-trophy.vercel.app/?username=ziko387" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <!-- ABOUT ME -->
 - 🔭 I’m currently working with **Kotlin, Python, JavaScript**
@@ -58,7 +68,7 @@
 <!-- ADDITIONAL TOOLS -->
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" width="40" height="40"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" width="40" height="40"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
@@ -82,24 +92,21 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
 </p>
 
-<!-- GITHUB STATS -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ziko387&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziko387&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziko387&theme=tokyonight&hide_border=true" />
-</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziko387&bg_color=0f2027&color=ffffff&line=00eaff&point=ffffff&hide_border=true" />
 </p>
 
+
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:203a43,100:0f2027&section=footer&text=Build.%20Ship.%20Iterate.&fontColor=ffffff" />
 </p>
+
 
 <p align="center">
   <b>⚡ ziko387 (mwangiDEV)</b><br/>
